@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turing_Assignment_1", "Turing_Assignment_1\Turing_Assignment_1.csproj", "{E4741C66-A4FC-4ED6-BE7A-72932C78980C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4741C66-A4FC-4ED6-BE7A-72932C78980C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4741C66-A4FC-4ED6-BE7A-72932C78980C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4741C66-A4FC-4ED6-BE7A-72932C78980C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4741C66-A4FC-4ED6-BE7A-72932C78980C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68560B9C-6BD9-4CA4-BC94-1A1A6E64DE01}
+	EndGlobalSection
+EndGlobal
